@@ -21,3 +21,6 @@ package.json
 eslint
 npm i -D eslint @rocketseat/eslint-config
 npm run lint
+
+stitches
+Ferramenta de estilização
