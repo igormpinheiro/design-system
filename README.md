@@ -24,3 +24,8 @@ npm run lint
 
 stitches
 Ferramenta de estilização
+
+storybook
+documentação componentes
+npx sb init --builder @storybook/builder-vite --type react --package-manager=npm
+npm -i -D vite @vitejs/plugin-react
