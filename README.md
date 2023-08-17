@@ -18,3 +18,6 @@ npm i tsup -D
 package.json 
 "private": true => informa que não irá ser publicado no npm. ou seja, sera um pct privado
 
+eslint
+npm i -D eslint @rocketseat/eslint-config
+npm run lint
