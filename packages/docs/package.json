@@ -25,10 +25,12 @@
     "storybook": "^7.3.1",
     "vite": "^4.4.9"
   },
-  "dependencies":{
+  "dependencies": {
+    "@igg-ui/eslint-config": "*",
+    "@igg-ui/ts-config": "*",
     "@igg-ui/react": "*",
     "@igg-ui/tokens": "*",
-    "@igg-ui/eslint-config": "*",
+    "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
