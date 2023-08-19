@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, BoxProps } from '@igg-ui/react'
+import { Box, BoxProps, Text } from '@igg-ui/react'
 
 export default {
   title: 'Box',
@@ -8,7 +8,7 @@ export default {
   args: {
     children: (
       <>
-        <span>Box</span>
+        <Text>Box</Text>
       </>
     ),
   },
